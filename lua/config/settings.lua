@@ -1,8 +1,8 @@
 -- vim.opt
 -- Tab
 vim.opt.tabstop = 4  -- number of spaces per TAB in visual mode
--- vim.opt.softtabstop = 4  -- number of spaces per TAB in editing mode
--- vim.opt.shiftwidth = 4  -- number of spaces per TAB in insert mode
+vim.opt.softtabstop = 4  -- number of spaces per TAB in editing mode
+vim.opt.shiftwidth = 4  -- number of spaces per TAB in insert mode
 vim.opt.expandtab = true  -- tabs are spaces
 
 -- UI config

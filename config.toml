@@ -1,8 +1,8 @@
 [font]
-normal = ["MonaspiceRn NFM"]
+normal = ["Maple Mono NF CN Medium"]
 size = 18
 
-[font.features]
-"MonaspiceRn NFM" = ['+calt', '+ss01', '+ss02', '+ss03', '+ss04', '+ss05', '+ss06', '+ss07', '+ss08', '+ss09', '+liga']
+#[font.features]
+#"MapleMono-NF-CN-Medium" = ['+calt', '+ss01', '+ss02', '+ss03', '+ss04', '+ss05', '+ss06', '+ss07', '+ss08', '+ss09', '+liga']
 
 

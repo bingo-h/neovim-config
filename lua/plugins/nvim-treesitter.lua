@@ -6,7 +6,7 @@ return {
     config = function ()
         require("nvim-treesitter.configs").setup {
             auto_install = true,
-	    sync_install = false,
+            sync_install = false,
             ensure_install = {
                 "c",
                 "python",
@@ -19,7 +19,7 @@ return {
             highlight = {
                 enable = true,
                 disable = {},  -- list of languages that aren't highlighted
-		additional_vim_regex_highlighting = true
+                additional_vim_regex_highlighting = true
             },
 
             indent = {
