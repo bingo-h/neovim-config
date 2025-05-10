@@ -41,16 +41,14 @@ return {
             default_integrations = true,
             integrations = {
                 blink_cmp = true,
-                gitsigns = false,
                 mason = true,
-                nvimtree = true,
-                treesitter = true,
-                notify = false,
-                mini = {
-                    enabled = false,
-                    indentscope_color = "",
-                },
                 -- For more plugins integrations please scroll down (https://github.com/catppuccin/nvim#integrations)
+                lsp_trouble = true,
+                indent_blankline = {
+                    enabled = true,
+                    scope_color = "teal", -- catppuccin color (eg. `lavender`) Default: text
+                    colored_indent_levels = false,
+                },
             },
         })
 

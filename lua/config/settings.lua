@@ -7,6 +7,7 @@ vim.opt.expandtab = true  -- tabs are spaces
 
 -- UI config
 vim.opt.number = true  -- show absolute number
+vim.opt.rnu = true  -- show relative number
 
 -- Smart indent
 vim.opt.smartindent = false
